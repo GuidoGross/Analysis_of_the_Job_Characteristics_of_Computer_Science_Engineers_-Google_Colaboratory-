@@ -36,10 +36,4 @@ def main_menu():
             case "A": break
             case "S": confirm_exit()
 
-import sys
-if "ipykernel" in sys.modules:
-    import matplotlib.pyplot as pyplot
-    pyplot.ioff()
-
-try: main()
-except SystemExit: pass
+main()
