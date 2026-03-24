@@ -143,10 +143,5 @@ def show_statistical_graph(variable, graph_type):
             axes.set_xlabel(variable, fontweight = "bold", fontsize = 14, labelpad = 15)
             axes.set_ylabel("Frecuencia", fontweight = "bold", fontsize = 14, labelpad = 15)
     pyplot.tight_layout(pad = 2.5)
-    import sys
-    if "ipykernel" in sys.modules:
-        from IPython.display import display
-        display(figure)
-        pyplot.close(figure)
-    else: pyplot.show()
+    pyplot.show()
     wait_for_key()
