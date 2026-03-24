@@ -145,3 +145,4 @@ def show_statistical_graph(variable, graph_type):
     pyplot.tight_layout(pad = 2.5)
     pyplot.show()
     wait_for_key()
+    pyplot.close("all")

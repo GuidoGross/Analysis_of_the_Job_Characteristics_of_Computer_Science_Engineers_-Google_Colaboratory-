@@ -1,4 +1,4 @@
-from tui_utilities import set_window_title, menu, confirm_exit
+from tui_utilities import menu, confirm_exit
 from data_base_analysis import view_data_base, analyze_variables, frequencies_distribution_table_variable, compare_frequencies_distribution_tables
 from statistical_graphs import generate_statistical_graphs_menu
 
