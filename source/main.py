@@ -36,4 +36,5 @@ def main_menu():
             case "A": break
             case "S": confirm_exit()
 
-main()
+try: main()
+except SystemExit: pass
