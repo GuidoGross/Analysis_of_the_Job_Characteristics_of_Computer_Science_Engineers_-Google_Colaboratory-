@@ -1,0 +1,301 @@
+Edad,Experiencia,Genero,Nacionalidad,Salario_USD,Horas_Semanales,Empresa,Lenguaje,Area,Proyectos_Activos
+39,4,Femenino,Perú,1132,45,Mercado Libre,JavaScript,IA,5
+54,13,No binario,Brasil,2477,39,Mercado Libre,SQL,Data Science,1
+49,28,Femenino,México,3712,48,SAP,JavaScript,Frontend,5
+49,2,Masculino,Argentina,1062,44,SAP,Python,Bases de datos,3
+36,12,No binario,Chile,2264,50,Oracle,JavaScript,Data Science,5
+35,7,Masculino,España,1689,48,IBM,JavaScript,Frontend,2
+27,6,No binario,Argentina,1622,44,Oracle,Python,Sistemas,3
+22,1,Femenino,Uruguay,1000,37,Oracle,JavaScript,IA,4
+34,13,Femenino,Brasil,1970,50,Globant,C++,IA,1
+57,22,Masculino,Chile,3308,49,SAP,SQL,Data Science,1
+50,7,Femenino,España,1808,40,Mercado Libre,JavaScript,Full Stack,1
+59,40,No binario,Argentina,5500,38,Accenture,JavaScript,Data Science,1
+40,20,Masculino,Brasil,2880,42,Oracle,Python,Frontend,3
+35,14,Femenino,Perú,2382,45,Oracle,C++,Data Science,5
+45,15,Masculino,Argentina,2510,50,Accenture,C++,IA,1
+51,27,No binario,Perú,4580,45,Mercado Libre,JavaScript,Data Science,1
+48,27,Masculino,Uruguay,4715,44,Oracle,JavaScript,Full Stack,4
+41,21,Masculino,España,3152,46,SAP,JavaScript,IA,4
+23,4,No binario,España,1140,36,SAP,Java,Full Stack,2
+24,6,No binario,Brasil,1550,43,Mercado Libre,JavaScript,IA,3
+45,13,No binario,México,2074,37,IBM,C++,Full Stack,3
+31,8,No binario,Chile,1720,35,Mercado Libre,C++,Backend,5
+43,7,Masculino,Perú,1521,43,Globant,Java,Frontend,4
+23,4,No binario,Uruguay,1152,41,Accenture,C++,Full Stack,2
+41,9,Masculino,Chile,1844,45,Accenture,Python,Sistemas,1
+30,8,Femenino,Uruguay,1824,44,Mercado Libre,JavaScript,Sistemas,1
+26,3,No binario,Brasil,1148,49,Mercado Libre,C#,Frontend,5
+37,12,Femenino,México,1880,49,Oracle,Java,Data Science,3
+34,13,No binario,Chile,2165,42,IBM,Python,IA,4
+41,13,Masculino,Perú,2087,36,Globant,Python,Data Science,4
+59,32,Femenino,Brasil,4192,40,Mercado Libre,C++,IA,3
+57,39,Femenino,Perú,5500,42,Accenture,SQL,IA,2
+41,10,Femenino,Chile,1940,50,IBM,Java,Backend,4
+52,9,Masculino,Brasil,1772,49,Oracle,JavaScript,Bases de datos,1
+42,12,Masculino,Argentina,2276,47,Globant,Python,Backend,1
+36,4,Masculino,España,1172,37,Globant,C#,Frontend,3
+47,28,Femenino,Chile,4244,36,Oracle,C++,Bases de datos,3
+60,21,No binario,México,3677,35,Globant,C#,Data Science,4
+47,17,No binario,Chile,2891,45,Oracle,SQL,IA,2
+53,8,No binario,Uruguay,1560,39,Mercado Libre,Java,Bases de datos,3
+39,8,Femenino,España,1776,46,IBM,JavaScript,Frontend,4
+37,12,Femenino,España,2540,35,Mercado Libre,C++,Sistemas,5
+30,10,Masculino,Brasil,1680,49,Mercado Libre,C++,IA,1
+60,7,No binario,Brasil,1626,49,Mercado Libre,C++,Sistemas,5
+23,2,Femenino,España,1070,37,Mercado Libre,C++,Frontend,2
+58,32,Masculino,Argentina,4608,46,Mercado Libre,Java,IA,5
+54,17,No binario,Argentina,3316,47,Oracle,Java,Full Stack,3
+35,5,No binario,España,1420,42,Mercado Libre,Python,IA,2
+52,22,No binario,Uruguay,3528,47,Oracle,JavaScript,Frontend,4
+58,6,No binario,Uruguay,1478,42,Accenture,SQL,Bases de datos,3
+28,3,Masculino,México,1235,36,Mercado Libre,SQL,Frontend,4
+50,21,Masculino,España,2900,41,Accenture,Java,Frontend,2
+28,6,Femenino,Chile,1610,46,Accenture,SQL,Frontend,3
+40,1,Masculino,España,1000,49,Oracle,C#,Frontend,4
+42,18,Masculino,Chile,2798,44,SAP,SQL,Frontend,5
+40,18,Masculino,Chile,2258,50,Accenture,C++,Bases de datos,5
+43,13,No binario,España,2685,41,Mercado Libre,Python,Data Science,5
+49,17,No binario,Uruguay,2670,45,Oracle,C#,Data Science,1
+23,2,No binario,Argentina,1000,35,Oracle,C#,Data Science,4
+40,14,Femenino,México,2564,46,Oracle,Java,Data Science,1
+27,2,Masculino,Perú,1000,44,SAP,Python,Sistemas,4
+24,5,Masculino,Argentina,1205,41,Globant,SQL,Sistemas,4
+53,34,Femenino,Chile,4642,35,Globant,Java,Sistemas,5
+36,6,No binario,Perú,1298,39,Globant,JavaScript,IA,5
+58,23,Femenino,México,4227,37,Globant,Java,Frontend,4
+60,2,Femenino,Chile,1074,49,Globant,C#,IA,2
+43,11,No binario,México,1779,38,SAP,Python,Bases de datos,2
+41,11,No binario,Brasil,2043,50,IBM,C++,Bases de datos,3
+54,28,Femenino,Argentina,3208,50,Accenture,Java,Full Stack,3
+51,11,Femenino,Perú,2428,42,Accenture,C++,Full Stack,5
+38,15,Masculino,Chile,2285,43,Globant,C#,Bases de datos,3
+35,16,No binario,Perú,3184,39,Accenture,C#,IA,5
+34,12,Masculino,España,2528,40,Globant,SQL,Full Stack,1
+45,1,Femenino,Perú,1000,48,SAP,SQL,Backend,3
+38,10,Femenino,Uruguay,2040,38,SAP,C#,Bases de datos,1
+60,36,Masculino,Brasil,4112,43,Mercado Libre,SQL,Full Stack,3
+53,9,Masculino,Brasil,1826,48,Mercado Libre,Python,Frontend,1
+40,12,Femenino,Chile,2312,45,Mercado Libre,Java,Sistemas,3
+29,11,Femenino,Uruguay,2175,41,Oracle,JavaScript,Full Stack,4
+44,22,Masculino,Argentina,3396,48,SAP,JavaScript,Sistemas,3
+41,20,No binario,Argentina,2620,39,Mercado Libre,JavaScript,Backend,2
+57,10,No binario,Argentina,2230,38,Mercado Libre,C++,Full Stack,1
+60,35,Masculino,Argentina,5210,50,Globant,C#,Bases de datos,5
+52,20,Femenino,España,2560,46,Mercado Libre,JavaScript,Frontend,4
+36,5,No binario,México,1480,35,Globant,Python,Data Science,2
+35,17,Masculino,Brasil,2687,42,Accenture,JavaScript,Sistemas,2
+56,28,Femenino,España,3992,48,Oracle,SQL,Data Science,2
+29,1,Femenino,Brasil,1000,35,Mercado Libre,SQL,Backend,2
+57,33,Femenino,Argentina,5500,48,Oracle,SQL,Backend,1
+40,7,No binario,México,1689,41,SAP,Java,Sistemas,1
+59,13,Femenino,Brasil,2425,43,Mercado Libre,C++,Frontend,5
+51,1,No binario,Chile,1000,49,Mercado Libre,Python,Bases de datos,2
+42,19,Masculino,Perú,3023,37,Accenture,Python,Full Stack,1
+37,12,Femenino,Argentina,2528,39,Globant,JavaScript,IA,1
+24,2,Femenino,Uruguay,1040,42,Oracle,JavaScript,Sistemas,5
+58,11,Femenino,Perú,2109,45,SAP,C++,Sistemas,4
+53,29,Masculino,Brasil,4048,36,SAP,C++,Full Stack,4
+29,6,Masculino,Perú,1328,36,SAP,SQL,Frontend,3
+36,2,Masculino,España,1000,35,Mercado Libre,Java,Backend,4
+55,15,No binario,Chile,3020,40,IBM,C#,Full Stack,4
+60,28,No binario,México,3516,43,Globant,JavaScript,Data Science,2
+58,33,Femenino,Brasil,4661,48,Globant,C++,Full Stack,1
+59,34,Femenino,Brasil,4778,36,Mercado Libre,Java,Frontend,5
+48,7,Femenino,Perú,1675,41,Accenture,C#,IA,2
+49,17,Masculino,Perú,3027,46,IBM,Python,Frontend,5
+42,15,No binario,Uruguay,2840,43,Accenture,SQL,Sistemas,3
+59,32,Masculino,Brasil,4416,50,Accenture,Java,Bases de datos,2
+39,21,Femenino,Argentina,3026,41,Mercado Libre,Java,Full Stack,2
+40,5,Masculino,Brasil,1405,46,Accenture,JavaScript,Bases de datos,4
+37,17,Masculino,España,3163,50,Accenture,SQL,Data Science,4
+47,4,No binario,Chile,1340,38,Accenture,C#,IA,4
+23,3,No binario,Perú,1106,47,IBM,JavaScript,Frontend,4
+33,4,Femenino,Argentina,1148,44,Accenture,SQL,IA,1
+45,18,Masculino,Brasil,2834,44,IBM,C#,IA,1
+52,29,Masculino,Argentina,3729,44,Mercado Libre,Python,Sistemas,4
+54,24,No binario,Uruguay,3560,50,Accenture,SQL,Bases de datos,2
+22,3,No binario,España,1148,47,Oracle,SQL,Data Science,1
+39,16,No binario,Argentina,2960,39,Globant,JavaScript,IA,5
+31,13,Masculino,México,2126,41,Accenture,SQL,IA,1
+54,11,Masculino,México,2263,44,Oracle,C++,IA,2
+30,9,No binario,Argentina,1997,44,Globant,C#,Data Science,1
+36,7,No binario,México,1458,50,Oracle,C#,Bases de datos,5
+30,5,Masculino,Argentina,1380,43,SAP,C#,IA,4
+38,3,Femenino,España,1100,38,Oracle,C++,Bases de datos,3
+30,6,Femenino,Chile,1370,41,IBM,JavaScript,Frontend,5
+40,6,Masculino,Chile,1322,40,Accenture,Python,Sistemas,2
+44,25,Masculino,Uruguay,3275,48,Oracle,C++,Sistemas,4
+54,21,Femenino,Brasil,3131,46,SAP,C++,Backend,1
+31,3,Femenino,Brasil,1046,48,SAP,Python,Sistemas,4
+23,1,Femenino,Perú,1000,43,IBM,Python,Backend,5
+42,24,Masculino,Argentina,4040,37,Globant,Java,Full Stack,3
+33,10,No binario,Brasil,2030,40,IBM,C++,Sistemas,2
+44,16,Masculino,Perú,2768,44,Oracle,JavaScript,Frontend,4
+55,35,No binario,Perú,3775,42,IBM,Python,Backend,2
+22,2,Femenino,España,1092,39,IBM,Python,Backend,2
+55,20,No binario,Perú,3080,36,Mercado Libre,Python,Bases de datos,2
+44,16,Femenino,Perú,2144,43,IBM,C#,Bases de datos,4
+52,18,Masculino,Argentina,3212,50,Mercado Libre,Python,Bases de datos,4
+48,25,Femenino,Perú,2900,36,IBM,SQL,Sistemas,1
+47,19,No binario,México,2624,50,Mercado Libre,Python,Data Science,2
+38,7,Femenino,México,1717,44,Accenture,Java,Sistemas,3
+45,16,No binario,Uruguay,2992,43,Oracle,C#,Frontend,4
+39,5,No binario,Argentina,1465,45,Mercado Libre,C#,Sistemas,5
+34,11,Femenino,Chile,2076,43,Mercado Libre,Python,Backend,5
+38,10,Masculino,Brasil,1710,39,Accenture,C++,Bases de datos,3
+24,2,No binario,España,1032,46,Accenture,Java,IA,3
+49,24,No binario,Perú,3128,49,IBM,C#,Frontend,2
+51,8,Masculino,México,1528,40,Mercado Libre,Java,Data Science,4
+28,2,Femenino,Perú,1034,50,Oracle,SQL,Full Stack,2
+27,3,Masculino,Perú,1079,42,Accenture,C++,IA,4
+59,10,Femenino,Brasil,1680,36,IBM,C#,Data Science,2
+31,6,Masculino,Brasil,1646,40,SAP,C#,Data Science,1
+30,3,No binario,Uruguay,1067,49,SAP,SQL,IA,1
+56,24,Masculino,España,3512,48,Oracle,Python,Data Science,2
+25,5,Femenino,Uruguay,1540,49,SAP,Python,IA,5
+23,5,No binario,Argentina,1445,37,Globant,JavaScript,Backend,5
+44,23,No binario,Uruguay,3514,46,Mercado Libre,Python,IA,2
+34,12,No binario,España,2312,42,Oracle,C++,Frontend,5
+35,15,Femenino,Chile,2195,49,Accenture,SQL,Full Stack,5
+51,1,Femenino,Chile,1000,49,IBM,SQL,Sistemas,3
+47,12,Femenino,México,2432,37,Globant,JavaScript,Sistemas,1
+44,23,No binario,México,3008,40,Accenture,Java,Sistemas,1
+47,6,No binario,Chile,1490,38,Oracle,JavaScript,IA,5
+29,5,Femenino,Perú,1325,37,Accenture,C#,Bases de datos,4
+41,1,Femenino,Chile,1000,35,Mercado Libre,C#,IA,5
+58,19,No binario,Chile,2624,48,Globant,C++,Data Science,3
+53,24,Masculino,Uruguay,3776,50,Accenture,C#,Bases de datos,2
+42,15,No binario,México,2165,43,Mercado Libre,Python,Frontend,3
+22,1,Masculino,España,1000,40,SAP,SQL,Full Stack,3
+51,11,Masculino,México,2307,40,Accenture,SQL,Bases de datos,2
+35,10,Femenino,Perú,2070,37,Accenture,Python,Data Science,2
+26,3,Femenino,Perú,1223,37,IBM,C++,Backend,3
+47,9,Femenino,España,1970,44,Accenture,JavaScript,Full Stack,5
+36,17,Femenino,Perú,2568,38,IBM,Java,IA,3
+39,19,No binario,México,3384,47,Accenture,SQL,Frontend,2
+38,1,Masculino,Argentina,1000,44,Oracle,Java,Data Science,4
+41,11,Femenino,México,2142,45,Globant,C#,Bases de datos,3
+25,1,Masculino,Uruguay,1000,49,Accenture,C#,Sistemas,1
+52,13,Masculino,Brasil,2360,42,IBM,C++,Full Stack,4
+52,30,Masculino,Perú,4250,37,Oracle,C++,Data Science,5
+40,13,Femenino,Brasil,2724,38,IBM,Java,Backend,3
+58,24,Femenino,Chile,4280,42,SAP,JavaScript,Frontend,3
+58,5,Femenino,Uruguay,1355,46,Globant,C++,IA,4
+39,7,Femenino,Brasil,1612,39,Oracle,C#,IA,4
+49,3,Femenino,México,1142,37,IBM,JavaScript,Sistemas,2
+42,24,Masculino,Chile,2720,42,Mercado Libre,Java,Bases de datos,3
+47,11,No binario,Brasil,1746,40,Accenture,Java,IA,1
+22,2,Femenino,Chile,1070,48,SAP,SQL,Sistemas,3
+47,5,Femenino,Perú,1360,50,SAP,JavaScript,Sistemas,3
+44,4,No binario,Chile,1156,39,Accenture,C#,Full Stack,1
+57,14,Masculino,Chile,2788,47,Mercado Libre,C++,Full Stack,2
+47,23,Masculino,Brasil,3146,40,IBM,Java,Full Stack,1
+29,3,Masculino,Argentina,1190,50,Accenture,C++,Data Science,2
+39,14,Masculino,Perú,2144,43,Globant,Java,IA,4
+53,28,Femenino,Uruguay,3376,38,SAP,C++,Bases de datos,5
+31,5,No binario,Chile,1500,44,SAP,SQL,Sistemas,2
+54,23,No binario,España,3974,37,Oracle,C++,Full Stack,2
+60,12,Femenino,Argentina,2336,38,Mercado Libre,C#,Backend,3
+30,9,Femenino,España,1619,45,Globant,C++,Backend,2
+44,17,No binario,Chile,3265,43,Oracle,Python,Backend,1
+42,10,Femenino,Brasil,2210,49,Accenture,Java,Sistemas,3
+31,13,Femenino,España,2711,49,IBM,C++,IA,1
+50,11,Masculino,Argentina,1878,48,Mercado Libre,C#,Bases de datos,1
+42,5,Masculino,Argentina,1480,41,IBM,JavaScript,Data Science,4
+55,12,No binario,Chile,2132,37,IBM,Java,Bases de datos,3
+58,4,Masculino,Argentina,1296,36,Accenture,SQL,Sistemas,3
+52,8,Masculino,Uruguay,1560,43,Globant,JavaScript,Bases de datos,5
+55,12,Masculino,Brasil,2240,35,SAP,C++,Frontend,1
+59,32,No binario,Uruguay,3456,48,Mercado Libre,Java,Full Stack,4
+41,18,No binario,Chile,2438,49,SAP,C#,Data Science,1
+24,5,Masculino,Argentina,1375,48,IBM,JavaScript,Backend,1
+39,20,No binario,Perú,3160,45,Mercado Libre,Java,Data Science,3
+56,4,Femenino,Argentina,1212,45,Accenture,JavaScript,IA,3
+22,2,Femenino,Uruguay,1058,35,Oracle,Java,Sistemas,4
+23,4,No binario,Uruguay,1328,40,SAP,C#,IA,3
+43,1,Femenino,Chile,1000,46,Accenture,Java,Backend,2
+41,19,No binario,Chile,3194,48,Oracle,Python,IA,2
+26,7,No binario,México,1409,50,Mercado Libre,C++,IA,1
+47,28,No binario,México,3992,46,IBM,JavaScript,IA,3
+41,12,No binario,España,2480,46,Accenture,Java,Data Science,5
+31,11,Masculino,México,2087,40,Oracle,JavaScript,Sistemas,4
+32,1,Femenino,Perú,1000,48,Mercado Libre,JavaScript,Bases de datos,1
+45,1,No binario,Brasil,1000,38,Oracle,Java,IA,3
+24,2,Femenino,Argentina,1014,45,Accenture,C++,Frontend,3
+41,10,Femenino,Chile,1600,35,SAP,Java,Backend,3
+33,2,No binario,España,1014,47,SAP,JavaScript,Sistemas,2
+50,10,No binario,Uruguay,1960,49,IBM,C++,Sistemas,3
+56,20,Masculino,Argentina,2720,36,Oracle,JavaScript,Data Science,1
+38,10,No binario,México,2070,49,Accenture,Java,Frontend,4
+32,1,No binario,Brasil,1000,45,Mercado Libre,C#,IA,5
+23,1,Masculino,España,1000,46,Oracle,SQL,Data Science,3
+22,1,No binario,México,1000,37,Globant,Java,Backend,5
+60,4,Femenino,Argentina,1348,49,SAP,JavaScript,Full Stack,2
+59,17,No binario,Perú,2687,37,Oracle,Python,Full Stack,3
+25,7,Femenino,Brasil,1780,40,Oracle,C#,Backend,3
+32,14,Femenino,Argentina,2438,45,Accenture,SQL,Sistemas,1
+58,24,No binario,Brasil,3056,35,Oracle,Python,Sistemas,2
+35,11,Masculino,México,2208,42,Oracle,JavaScript,Full Stack,2
+33,3,Masculino,Uruguay,1055,43,Mercado Libre,JavaScript,Frontend,5
+26,7,Femenino,Chile,1514,41,SAP,Python,Data Science,5
+51,19,Femenino,Perú,2700,43,Mercado Libre,Python,Full Stack,5
+48,14,Femenino,México,2256,46,Mercado Libre,Python,Frontend,3
+48,15,Masculino,Argentina,2465,42,Oracle,SQL,Bases de datos,5
+32,9,Masculino,Chile,2096,40,IBM,JavaScript,Data Science,4
+48,2,Masculino,España,1000,38,Globant,Java,Bases de datos,2
+33,3,No binario,Chile,1211,40,IBM,C++,Full Stack,3
+56,31,Masculino,Brasil,4334,36,SAP,C#,Frontend,2
+38,12,No binario,Perú,2324,46,Accenture,Python,Frontend,3
+33,6,No binario,México,1460,35,Accenture,SQL,Backend,2
+22,1,Femenino,Uruguay,1000,48,Accenture,SQL,Bases de datos,4
+22,1,Femenino,Brasil,1000,37,Globant,C++,Bases de datos,3
+57,23,No binario,Uruguay,3675,44,Mercado Libre,C#,Sistemas,1
+39,12,Femenino,Uruguay,1844,44,Mercado Libre,C#,Data Science,1
+25,7,Masculino,Brasil,1689,45,Globant,JavaScript,Data Science,2
+43,25,No binario,Argentina,3000,49,SAP,C#,Bases de datos,5
+22,1,Femenino,Perú,1000,36,Accenture,Python,Data Science,2
+55,2,Femenino,México,1048,44,IBM,Python,Data Science,1
+29,7,Masculino,Chile,1416,46,Globant,Python,Backend,5
+47,3,No binario,Chile,1124,39,Accenture,SQL,Data Science,2
+46,3,Masculino,Brasil,1178,47,SAP,JavaScript,Bases de datos,4
+26,6,No binario,México,1532,48,Globant,C#,Frontend,3
+30,1,Masculino,Uruguay,1000,49,SAP,C++,Backend,3
+30,4,Femenino,Argentina,1172,47,Globant,SQL,Full Stack,3
+52,21,No binario,Perú,3320,45,SAP,JavaScript,IA,1
+58,5,Masculino,Uruguay,1435,49,IBM,JavaScript,Full Stack,3
+43,2,Masculino,México,1040,35,SAP,Java,Backend,2
+22,2,Masculino,Chile,1000,39,Oracle,SQL,Sistemas,4
+43,5,Femenino,España,1230,42,Accenture,C#,Bases de datos,4
+25,5,Masculino,Brasil,1520,35,SAP,SQL,Frontend,4
+60,16,Masculino,Uruguay,2256,46,Mercado Libre,C#,Sistemas,3
+53,25,Femenino,Perú,4375,36,SAP,Java,IA,3
+54,21,No binario,Uruguay,2732,49,Mercado Libre,C++,Bases de datos,1
+22,2,Femenino,Perú,1014,39,Globant,C++,Bases de datos,1
+34,10,No binario,España,2260,36,Globant,JavaScript,Sistemas,4
+36,3,Masculino,Argentina,1187,46,Globant,C++,Data Science,2
+55,15,Masculino,Uruguay,2825,38,Globant,Java,Full Stack,2
+29,11,Masculino,España,2208,43,IBM,Java,Full Stack,5
+60,10,Femenino,Brasil,1870,37,Globant,C#,Backend,2
+46,15,Masculino,Chile,2735,48,Globant,Java,Bases de datos,2
+43,7,Masculino,México,1703,44,Mercado Libre,Python,Bases de datos,1
+48,2,No binario,Brasil,1034,42,Accenture,JavaScript,IA,5
+33,8,No binario,Uruguay,1616,43,Accenture,Python,Data Science,4
+24,6,Femenino,Brasil,1628,46,Oracle,SQL,Bases de datos,5
+24,5,Femenino,Brasil,1310,48,Mercado Libre,Python,Full Stack,5
+44,25,Masculino,Chile,4400,48,Accenture,C#,Data Science,2
+29,6,No binario,Perú,1340,45,SAP,Java,Frontend,3
+34,8,Masculino,Argentina,1848,50,IBM,C#,Sistemas,4
+59,24,Masculino,Brasil,4400,50,Mercado Libre,C++,Bases de datos,3
+25,4,Masculino,España,1224,42,SAP,JavaScript,Bases de datos,2
+46,7,No binario,Brasil,1465,44,SAP,SQL,Sistemas,2
+57,30,No binario,España,4160,38,Oracle,SQL,Backend,1
+24,4,Femenino,España,1252,43,SAP,Java,Frontend,4
+40,12,No binario,Perú,2468,39,Oracle,Java,Sistemas,5
+24,5,Masculino,Uruguay,1385,38,IBM,JavaScript,Frontend,5
+59,1,Femenino,Chile,1000,47,Mercado Libre,Python,Frontend,2
+24,3,No binario,Perú,1232,50,Globant,Python,Sistemas,1
+41,21,Masculino,México,2501,48,IBM,C++,Sistemas,2
+26,1,No binario,Argentina,1000,49,SAP,C#,IA,3
+57,11,No binario,Brasil,1867,43,Accenture,SQL,Full Stack,4
+56,35,Femenino,Uruguay,3740,41,SAP,SQL,Data Science,3
